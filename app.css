@@ -4,3 +4,7 @@
 .text-blue {
     color: blue;
 }
+
+#submitButton {
+    background:red;
+}
