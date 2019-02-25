@@ -1,13 +1,12 @@
 body {
+    font-family: 'Lato', sans-serif;
     margin: 0;
+}
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline overline line-through
 }
 input, label, button {
     display: block
-}
-main {
-    margin-left: 3em;
-}
-button {
-    margin: 1em 0 1em 0;
-    padding: 0 1em 0 1em;
 }
