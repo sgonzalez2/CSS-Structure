@@ -1,26 +1,19 @@
-.box {
-    height: 10em;
-    width: 10em;
-    float: left
+span {
+    display: block;
+    text-align: center;
+}
+.font-small {
+    font-size: 80%;
 }
 
-.red {
-background: red   
+.pixels {
+    font-size: 16px;
 }
-
-.blue {
-  background: blue
+.ems {
+    font-size: 1em;
+}.rems {
+    font-size: 1rem;
 }
-
-.green {
-    background: green
-}
-
-.purple {
-    background: purple; 
-}
-
-.border-yellow {
-    border: 5px solid goldenrod;
-    box-sizing: border-box
+.percent {
+    font-size: 100%;
 }
