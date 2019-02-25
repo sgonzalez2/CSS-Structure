@@ -1,8 +1,25 @@
-.highlighted {
-background: yellow;
+.box {
+    height: 10em;
+    width: 10 em;
 }
 
-input, label, button {
-    display: block;
+.red {
+    background: red;
 }
 
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green
+}
+
+.purple {
+    background: purple;
+}
+
+.border-yellow {
+    border: 5px solid goldenrod;
+    box-sizing: border-box
+}
