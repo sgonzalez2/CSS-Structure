@@ -16,6 +16,7 @@
 }
 
 .green {
+position: fixed;
     background: green
 }
 
