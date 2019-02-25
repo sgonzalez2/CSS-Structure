@@ -1,27 +1,23 @@
 .box {
     height: 10em;
     width: 10em;
+    float: left
 }
 
 .red {
-    position: absolute;
-    background: red;
-    height: 5em;
-    width: 5em
+background: red   
 }
 
 .blue {
-    background: blue;
-    position: relative;
+  background: blue
 }
 
 .green {
-position: fixed;
     background: green
 }
 
 .purple {
-    background: purple;
+    background: purple; 
 }
 
 .border-yellow {
