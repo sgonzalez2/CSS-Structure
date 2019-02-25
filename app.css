@@ -1,8 +1,8 @@
-.highlight {
+.highlighted {
 background: yellow;
 }
 
 input, label, button {
-    display: block;
+    display: none;
 }
 
