@@ -6,10 +6,13 @@
 .red {
     position: absolute;
     background: red;
+    height: 5em;
+    width: 5em
 }
 
 .blue {
     background: blue;
+    position: relative;
 }
 
 .green {
