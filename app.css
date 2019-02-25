@@ -1,19 +1,5 @@
-span {
-    display: block;
-    text-align: center;
-}
-.font-small {
-    font-size: 80%;
-}
-
-.pixels {
-    font-size: 16px;
-}
-.ems {
-    font-size: 1em;
-}.rems {
-    font-size: 1rem;
-}
-.percent {
-    font-size: 100%;
+.vpu {
+    height: 50vh;
+    width: 50vw;
+    background: red;
 }
