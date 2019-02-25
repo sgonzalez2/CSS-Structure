@@ -4,6 +4,7 @@
 }
 
 .red {
+    position: relative;
     background: red;
 }
 
