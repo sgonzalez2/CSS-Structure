@@ -1,5 +1,13 @@
-.vpu {
-    height: 50vh;
-    width: 50vw;
-    background: red;
+body {
+    margin: 0;
+}
+input, label, button {
+    display: block
+}
+main {
+    margin-left: 3em;
+}
+button {
+    margin: 1em 0 1em 0;
+    padding: 0 1em 0 1em;
 }
