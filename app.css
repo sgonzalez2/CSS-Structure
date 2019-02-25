@@ -3,6 +3,6 @@ background: yellow;
 }
 
 input, label, button {
-    display: none;
+    display: block;
 }
 
